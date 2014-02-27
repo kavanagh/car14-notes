@@ -13,6 +13,7 @@
 
 * CSVkit - command line tool for trimming csv files
 * OpenRefine - cleaning data, standardising
+* Mr Data Converter
 
 **Custom stats**
 
@@ -30,6 +31,9 @@
 
 * SQLite Manager - simplest db manager
 * MySQL
+* Data Tables
+* FreeDive - Knight digital media center, uses google docs to get data online
+* Transcribable - showing pdf and readers can type in comments, search themselves. Used by propublica
 
 **Geospatial analysis**
 
@@ -38,6 +42,15 @@
 * SpatialLite
 * TileMill
 * OpenGeo
+
+**Kitchen sink installers**
+
+* Bitnami
+* OSGeo-Live
+* Vagrant VN with iPy
+
+OSalt.com - find open source alternatives
+
 
 
 
