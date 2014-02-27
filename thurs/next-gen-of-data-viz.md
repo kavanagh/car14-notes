@@ -79,6 +79,7 @@ By Alberto Cairo
 
 * You must be a creator of devices that make the earth a better place before you can even think of becoming a fine artist
 
+<http://www.scribd.com/doc/209593302/NICAR-2014-talk-by-Alberto-Cairo>
 
 
 
