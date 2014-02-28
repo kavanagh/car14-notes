@@ -1,6 +1,6 @@
 # The data driven story (pt 1) - conceiving and launching.
 
-Panel with David Donald and Jennifer LaFeur.
+Panel with David Donald and Jennifer LaFleur.
 
 ## Research
 * IRE resource center. tip sheets, previous stories.
@@ -26,8 +26,8 @@ Panel with David Donald and Jennifer LaFeur.
 * Double check totals or counts against summary reports.
 * Check for duplicates.
 * consistency. check all labels.
-* make sure you understand the data. are you sure which fields you should be looking at. don't assume you know. don't assume the labels in a column are correct. are the dates possible. are they real values. did something happen during movving the data (during an DB import)
-* understand the data terminiology.
+* make sure you understand the data. are you sure which fields you should be looking at. don't assume you know. don't assume the labels in a column are correct. are the dates possible. are they real values. did something happen during moving the data (during an DB import)
+* understand the data terminology.
 * have there been changes over time that would have created problems.
 * reality changes over times and the data may not reflect that. the data collection might not have kept up.
 
