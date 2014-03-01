@@ -46,10 +46,11 @@ New model:
 * Event tracker to check what readers are doing
 * Do readers use the tools in the way that we expect? Answer: yes
 
+Need to improve on accessability testing
 
 ---
 
-#### Alison at NPR @Alykat
+#### Alyson at NPR @Alykat
 
 **Planet Money makes a T-shirt**
 
