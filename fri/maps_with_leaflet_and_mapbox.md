@@ -15,3 +15,12 @@
 **All session notes and example files can be found here:**
 <https://github.com/brickaa/mapbox-leaflet-demo>
 
+* Possible to style geojson files with leaflet, but it works really well with Mapbox
+* example1.html
+* On the command line, navigate to your folder
+* One line of Python to show in browser
+* example2.html - added styles and div for legend, set zoom level etc
+* Add grid layers to show interactive elements
+* example.html - added marker 
+
+
