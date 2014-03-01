@@ -4,6 +4,8 @@ Presentation as a storytelling tool
 
 *Moderator: Chrys Wu: @MacDiva*
 
+[Slides](http://j.mp/nicar14)
+
 ####Helene Sears: @MateerS
 
 BBC online workflow: 
@@ -68,5 +70,8 @@ Need to improve on accessability testing
 * No autoplaying video on mobile
 * Reach out on instagram to ask people to share pictures of themselves wearing the tshirt
 * User testing is so important: watched as people went through the site - significant changes occurred after this
+
+
+
 
 
