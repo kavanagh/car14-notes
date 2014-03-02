@@ -38,3 +38,4 @@ Ellen Gabler (Milwaukee Journal Sentinel)
 * Work on your networking skills
 
 *Ira Glass on Storytelling - Vimeo*
+Everyone feels like they suck sometimes!
